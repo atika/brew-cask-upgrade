@@ -9,9 +9,9 @@ Application are **uninstalled and resintalled** with brew cask
 [https://github.com/atika/brew-cask-upgrade](https://github.com/atika/brew-cask-upgrade)
 
 ### Usage :
-**cask-upgrade      :** prompt each time it encouter an update to install it
-**cask-upgrade auto :** will upgrade applications automatically
-**cask-upgrade atom :** will search for an application called atom and upgrade it
+* **cask-upgrade      :** prompt each time it encouter an update to install it
+* **cask-upgrade auto :** will upgrade applications automatically
+* **cask-upgrade atom :** will search for an application called atom and upgrade it
 
 ![Homebrew cask upgrade (ruby)](./assets/brew-cask-upgrade.png "Homebrew Cask Upgrade")
 
